@@ -1,0 +1,5 @@
+{"timestamp":"2023-10-25T10:15:23.000Z","rule":{"description":"sshd: brute force trying to get access.","level":7},"data":{"srcip":"192.168.1.100","dstuser":"root"}}
+{"timestamp":"2023-10-25T10:15:25.000Z","rule":{"description":"sshd: brute force trying to get access.","level":7},"data":{"srcip":"192.168.1.100","dstuser":"root"}}
+{"timestamp":"2023-10-25T10:16:01.000Z","rule":{"description":"sshd: authentication success.","level":3},"data":{"srcip":"172.16.0.10","dstuser":"admin"}}
+{"timestamp":"2023-10-25T10:17:00.000Z","rule":{"description":"sshd: brute force trying to get access.","level":7},"data":{"srcip":"192.168.1.100","dstuser":"admin"}}
+{"timestamp":"2023-10-25T10:18:30.000Z","rule":{"description":"sshd: brute force trying to get access.","level":7},"data":{"srcip":"10.0.0.50","dstuser":"root"}}
